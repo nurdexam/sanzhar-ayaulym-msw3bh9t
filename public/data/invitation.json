@@ -1,0 +1,34 @@
+{
+  "clientEmail": "viltia40@gmail.com",
+  "groom": "Айдос",
+  "bride": "Айгерим",
+  "date": "15 августа 2026",
+  "time": "17:00",
+  "dateTime": "2026-08-15T17:00:00",
+  "venue": "Grand Palace",
+  "address": "Алматы, Казахстан",
+  "coverImage": "/invitation/cover.jpg",
+  "gallery": [
+    "/invitation/photo-1.jpg",
+    "/invitation/photo-2.jpg",
+    "/invitation/photo-3.jpg",
+    "/invitation/photo-4.jpg",
+    "/invitation/photo-5.jpg",
+    "/invitation/photo-6.jpg"
+  ],
+  "events": [
+    {
+      "time": "16:00",
+      "title": "Сбор гостей"
+    },
+    {
+      "time": "17:00",
+      "title": "Начало торжества"
+    },
+    {
+      "time": "18:00",
+      "title": "Праздничный банкет"
+    }
+  ]
+}
+
