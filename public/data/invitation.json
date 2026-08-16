@@ -1,12 +1,12 @@
 {
-  "clientEmail": "viltia40@gmail.com",
-  "groom": "Айдос",
-  "bride": "Айгерим",
-  "date": "15 августа 2026",
-  "time": "17:00",
-  "dateTime": "2026-08-15T17:00:00",
-  "venue": "Grand Palace",
-  "address": "Алматы, Казахстан",
+  "clientEmail": "nurdexam@gmail.com",
+  "groom": "Санжар",
+  "bride": "Аяулым",
+  "date": "7 маусым 2027",
+  "time": "19:00",
+  "dateTime": "2027-06-07T19:00:00",
+  "venue": "Grand Ballroom Almaty",
+  "address": "Алматы қ., Достық даңғылы, 401 (Royal Tulip)",
   "coverImage": "/invitation/cover.jpg",
   "gallery": [
     "/invitation/photo-1.jpg",
@@ -14,21 +14,56 @@
     "/invitation/photo-3.jpg",
     "/invitation/photo-4.jpg",
     "/invitation/photo-5.jpg",
-    "/invitation/photo-6.jpg"
+    "/invitation/photo-6.jpg",
+    "/invitation/photo-7.jpg",
+    "/invitation/photo-8.jpg",
+    "/invitation/photo-9.jpg",
+    "/invitation/photo-10.jpg"
   ],
   "events": [
     {
-      "time": "16:00",
-      "title": "Сбор гостей"
+      "title": "Қонақтарды қарсы алу",
+      "time": "18:30"
     },
     {
-      "time": "17:00",
-      "title": "Начало торжества"
+      "title": "Жүргізушінің кіріспе сөзі мен тойдың ашылуы",
+      "time": "19:30"
     },
     {
-      "time": "18:00",
-      "title": "Праздничный банкет"
+      "title": "Басты кейіпкерлердің салтанатты шығуы",
+      "time": "19:40"
+    },
+    {
+      "title": "Үлкендердің алғашқы тілегі мен ақ батасы",
+      "time": "20:00"
+    },
+    {
+      "title": "1-ші ыстық тамақ, шоу-бағдарлама және әншілер",
+      "time": "20:30"
+    },
+    {
+      "title": "Жалпы би паузасы",
+      "time": "21:15"
+    },
+    {
+      "title": "Достар мен туыстардың тілектері, видео-ролик",
+      "time": "21:45"
+    },
+    {
+      "title": "2-ші ыстық тамақ және жұлдызды әнші",
+      "time": "22:15"
+    },
+    {
+      "title": "Жүргізушіден интерактивті ойындар мен би",
+      "time": "22:45"
+    },
+    {
+      "title": "Той тортын кесу және отшашу",
+      "time": "23:15"
+    },
+    {
+      "title": "Кеш иелерінің алғыс сөзі және естелік фотоға түсу",
+      "time": "23:30"
     }
   ]
 }
-
